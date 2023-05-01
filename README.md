@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **learning technologies like scala and R useful in machine learning apart from python.**
 
-- 👨‍💻 All of my Machine Learning projects are available at my Github [https://github.com/brittybidari](https://github.com/MachineLearning
+- 👨‍💻 All of my Machine Learning projects are available at my Github https://github.com/brittybidari/MachineLearning
 
 - 📝 I regularly write articles on medium [https://brittybidari.medium.com/](https://brittybidari.medium.com/)
 
