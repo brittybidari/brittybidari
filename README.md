@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/@britty-bidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@britty-bidari" height="30" width="40" /></a>
 <a href="https://dribbble.com/britty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="britty" height="30" width="40" /></a>
 <a href="https://medium.com/@brittybidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brittybidari" height="30" width="40" /></a>
-<a href="https://github.com/brittybidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brittybidari" height="30" width="40" /></a>
+<a href="https://github.com/brittybidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@brittybidari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
