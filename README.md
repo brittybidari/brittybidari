@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **learning technologies like scala and R useful in machine learning along with python.**
 
-- 👨‍💻 All of my Machine Learning projects are available at my Github https://github.com/brittybidari/MachineLearning
+- 👨‍💻 All of my Machine Learning projects are available at my Github https://github.com/brittybidari/AIML-Portfolio.git
 
 
 - 💬 Ask me about machine learning and software development tools and techniques including **javascript, objective C, swift, flutter, reactjs, html, css, python love to help, talk, learn and collaborate on these topics**
