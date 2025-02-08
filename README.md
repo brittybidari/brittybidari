@@ -7,15 +7,14 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects and opportunities.**
 
-- 🤝 I’m looking for help with **learning technologies like scala and R useful in machine learning apart from python.**
+- 🤝 I’m looking for help with **learning technologies like scala and R useful in machine learning along with python.**
 
 - 👨‍💻 All of my Machine Learning projects are available at my Github https://github.com/brittybidari/MachineLearning
 
-- 📝 I regularly write articles on medium [https://brittybidari.medium.com/](https://brittybidari.medium.com/)
 
 - 💬 Ask me about machine learning and software development tools and techniques including **javascript, objective C, swift, flutter, reactjs, html, css, python love to help, talk, learn and collaborate on these topics**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13JrraRHSLqwumRojpTUxUSKKKi9GvPdA/view?usp=sharing](https://drive.google.com/file/d/13JrraRHSLqwumRojpTUxUSKKKi9GvPdA/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I think I am adaptive and social worm with good sense of humor**
 
@@ -24,6 +23,7 @@
 <a href="https://linkedin.com/in/@britty-bidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@britty-bidari" height="30" width="40" /></a>
 <a href="https://dribbble.com/britty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="britty" height="30" width="40" /></a>
 <a href="https://medium.com/@brittybidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brittybidari" height="30" width="40" /></a>
+<a href="https://github.com/brittybidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brittybidari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
